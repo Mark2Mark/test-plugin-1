@@ -11,6 +11,15 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/Paddle.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			99cNszFzgBHkjwcjjPrWb/q+RkQ=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.paddle.Paddle" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "79B65AX6G6")</string>
+		</dict>
 		<key>Resources/Sample-Paddleable-Glyphs-Plugin-Prefix.pch</key>
 		<dict>
 			<key>hash2</key>
